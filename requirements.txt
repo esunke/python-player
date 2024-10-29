@@ -1,0 +1,3 @@
+Flask==2.0.1
+pyglet==1.5.21
+bluepy==1.3.0
